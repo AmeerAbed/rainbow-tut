@@ -1,0 +1,14 @@
+1- GIT VS GitHub
+
+GIT: version control system (CLI) (Help collaboration)
+GitHub: Web Serves / App (GUI) (uses git under the hood)
+
+
+
+
+2- Repositories ==(repo) ==> Project 
+
+
+
+3-Commit ===> Save
+For each commit there is a unique ID (Hach)
