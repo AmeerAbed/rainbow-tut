@@ -1,1 +1,4 @@
-
+By defult you have master branch 
+branching: you can fork / creat new branch (the new branch clone of its master)
+Branching::: pull requist:branch ask the master to pull 
+Merging:master accept the requist the branch is merge to it
